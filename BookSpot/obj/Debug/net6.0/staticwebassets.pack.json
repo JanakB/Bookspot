@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\css\\sell.css",
+      "PackagePath": "staticwebassets\\css\\sell.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\R.png",
+      "PackagePath": "staticwebassets\\img\\R.png"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\Sell-books-online.jpg",
+      "PackagePath": "staticwebassets\\img\\Sell-books-online.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\acadamic\\english.jpg",
+      "PackagePath": "staticwebassets\\img\\acadamic\\english.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\acadamic\\math.jpg",
+      "PackagePath": "staticwebassets\\img\\acadamic\\math.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\acadamic\\science.JPG",
+      "PackagePath": "staticwebassets\\img\\acadamic\\science.JPG"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\acadamic\\social.jpg",
+      "PackagePath": "staticwebassets\\img\\acadamic\\social.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\book.png",
+      "PackagePath": "staticwebassets\\img\\book.png"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\first_page.jpg",
+      "PackagePath": "staticwebassets\\img\\first_page.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\new_arrival\\new_arrival_1.jpg",
+      "PackagePath": "staticwebassets\\img\\new_arrival\\new_arrival_1.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\new_arrival\\new_arrival_2.jpg",
+      "PackagePath": "staticwebassets\\img\\new_arrival\\new_arrival_2.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\new_arrival\\new_arrival_3.jpg",
+      "PackagePath": "staticwebassets\\img\\new_arrival\\new_arrival_3.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\new_arrival\\new_arrival_4.jpg",
+      "PackagePath": "staticwebassets\\img\\new_arrival\\new_arrival_4.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\second_page.jpg",
+      "PackagePath": "staticwebassets\\img\\second_page.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\sellers\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\sellers\\1.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\sellers\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\sellers\\2.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\sellers\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\sellers\\3.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\sellers\\4.png",
+      "PackagePath": "staticwebassets\\img\\sellers\\4.png"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\sellers\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\sellers\\5.jpg"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\img\\third_page.png",
+      "PackagePath": "staticwebassets\\img\\third_page.png"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\BookSpot-DotNet-main\\BookSpot\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BookSpot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BookSpot.props",
+      "PackagePath": "build\\BookSpot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BookSpot.props",
+      "PackagePath": "buildMultiTargeting\\BookSpot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BookSpot.props",
+      "PackagePath": "buildTransitive\\BookSpot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
